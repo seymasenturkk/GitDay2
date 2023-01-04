@@ -7,8 +7,5 @@ public class ContactPage {
     //twitter
     //youtube
     //email
-<<<<<<< HEAD
-    //dfghjk
-=======
->>>>>>> feature-2
+
 }
