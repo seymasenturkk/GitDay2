@@ -7,5 +7,5 @@ public class ContactPage {
     //twitter
     //youtube
     //email
-    //dfghjk
+
 }
